@@ -1,0 +1,73 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>landing page</title>
+    <link rel="stylesheet" type="text/css" href="landing.css">
+</head>
+<body>
+    <div class="first">
+        <img src="9.jpg" alt="" >
+        <div><p class="ftext">FLORAL FLOWER SHOP</p></div>
+        <div class="fsub">
+               
+            <ul class="width">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Help </a></li>			
+                <li><a href="#">Contact us</a></li>
+            </ul>  
+        </div>
+    </div>
+    <div class="matter1img">
+    <div class="matter1">
+    <p>
+        Welcome to Florel Flower Shop! We're your go-to destination for stunning floral 
+        arrangements and bouquets.Our talented team of florists handcrafts each arrangement
+         with love and attention to detail. Browse our wide selection of fresh flowers, 
+         from vibrant roses to elegant lilies, and find the perfect arrangement for any
+          occasion.Need a beautiful bouquet for a special someone? We offer customizable 
+          options to make your gift extra special.Planning a wedding or event? Our expert 
+          floral designers will create breathtaking arrangements that will leave a lasting
+           impression.Can't decide? Let our knowledgeable staff guide you in choosing the 
+           perfect flowers to express your feelings or complement your decor.
+           We offer convenient delivery services, ensuring your flowers arrive fresh and on time.
+           Visit our shop at to experience the beauty and fragrance of our flowers firsthand.Follow 
+           us on social media for updates on new arrivals, promotions, and floral inspiration.At 
+           Florel Flower Shop, we believe in the power of flowers to brighten someone's day. Let 
+           us help you make every moment special.Remember to customize the content to fit the style 
+            and branding of Florel Flower Shop.
+</p>
+</div>
+<img src="8.jpg" alt=" ">
+    </div>
+</div>
+<div class="matter2img">
+    <div class=img2>
+        <img src="7.jpg" alt="" class="sizeimg" >  
+    </div>
+    <div class=matter2>
+        <pre>
+🌸 "Indulge in the beauty of nature with our exquisite collection of 
+handpicked flowers."
+🌼 "Elevate any space with our stunning floral arrangements, designed 
+to bring joy and elegance."
+🌺 "From birthdays to anniversaries, our vibrant bouquets are the perfect
+ way to show you care."
+💐 "Experience the magic of our premium flowers, carefully curated to make
+ every moment unforgettable."
+🌷 "Transform ordinary occasions into extraordinary memories with our
+ enchanting floral creations."
+🌻 "Discover the artistry of our skilled florists who craft each 
+arrangement with love and creativity."
+🌹 "Let the language of flowers speak for you, conveying your emotions
+ with grace and beauty."
+🌿 "Embrace the calming presence of nature with our selection of lush 
+green plants and botanicals."
+🌼 "Surprise your loved ones with a gift that will make their heart bloom.
+ Shop with us today!"
+     </pre>
+    </div>
+</div>
+</body>
+</html>
